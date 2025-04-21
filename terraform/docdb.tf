@@ -417,5 +417,5 @@ variable "db_master_username" {
 }
 
 variable "db_master_password" {
-  description = "Senha para o DocumentDB"
+  description = "Senha para o DocDB"
 }
